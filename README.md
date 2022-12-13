@@ -2,7 +2,7 @@
 KELOMPOK 1 PROJECT 1 TEFA KELAS SPESIALISASI FRONTEND
 
 <div align="left">
-  <a href="https://github.com/aisyakareninaa/TEFA_TASK1_K1_FE"></a>
+  <a href="https://github.com/aisyakareninaa/tubes-chapter1-fe-kelompok1"></a>
 
 <h3 align="center">TUGAS BESAR FRONTEND</h3>
 
@@ -14,7 +14,7 @@ KELOMPOK 1 PROJECT 1 TEFA KELAS SPESIALISASI FRONTEND
 <br>3. Celline Regia Yasshinta
 <br>4. Gizella Ratu Pramesti</br>
     <br />
-    <a href=""https://github.com/aisyakareninaa/TEFA_TASK1_K1_FE"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/aisyakareninaa/tubes-chapter1-fe-kelompok1"><strong>Explore the docs »</strong></a>
     <br />
     <br />
 </div>
@@ -90,19 +90,7 @@ Created by Kelompok 1 TEFA SMK Telkom Malang Frontend Specialization powered by 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+
 [js]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [js-url]: https://nodejs.org/
 [Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
