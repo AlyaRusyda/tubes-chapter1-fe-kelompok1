@@ -3,17 +3,13 @@
   <p align="center">
     TEFA SMK Telkom Malang Spesialisasi Frontend Kelompok 1
     
-   <br align="left"> Consists : </br>
+   <br> Consists : </br>
 <br>1. Aisya Karenina Ramadhani</br>
 2. Alya Rusyda Maharistya
 <br>3. Celline Regia Yasshinta
 <br>4. Gizella Ratu Pramesti</br>
-    <br/>
-    
-    <a href="https://github.com/aisyakareninaa/tubes-chapter1-fe-kelompok1"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-</div>
+
+   <a href="https://github.com/aisyakareninaa/tubes-chapter1-fe-kelompok1"><strong>Explore the docs » </strong></a>
 
 
 <!-- TABLE OF CONTENTS -->
