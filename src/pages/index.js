@@ -2,6 +2,7 @@ import React from "react";
 import "../css/style2.css";
 import Navbar from "./navbar";
 import Footer from "./footer";
+import Carousel from "react-bootstrap/Carousel";
 
 const Index = () => {
   return (
@@ -53,7 +54,7 @@ const Index = () => {
       <section className="about" id="about">
         <h1 className="heading">our team</h1>
         <div className="column">
-          <video width="500" height="240" controls preload="none" autoplay>
+          <video width="400" height="240" controls preload="none" autoplay>
             <source src="asset/video/VIDEO KELOMPOK.mp4" type="video/mp4" />
           </video>
           <div
@@ -86,14 +87,11 @@ const Index = () => {
             data-aos-duration="1000"
           >
             <div className="box center">
-              <div>
-                <p className="prod">Aisya Karenina Ramadhani</p>
-              </div>
               <div className="arr-container center">
                 <i className="fas fa-arrow-right"></i>
               </div>
-              <div className="left-container off left">
-                <p>About Aisya</p>
+              <div className="left-container left">
+                <p>Aisya Karenina Ramadhani</p>
                 <div className="icons">
                   <div className="slider">
                     <div className="slides">
@@ -142,9 +140,6 @@ const Index = () => {
                     referrerpolicy="no-referrer-when-downgrade"
                   ></iframe>
                 </div>
-                <div className="cancle center">
-                  <i className="fas fa-times"></i>
-                </div>
               </div>
             </div>
           </div>
@@ -154,14 +149,11 @@ const Index = () => {
             data-aos-duration="1000"
           >
             <div className="box center">
-              <div>
-                <p className="prod">Alya Rusyda Maharistya</p>
-              </div>
               <div className="arr-container center arr1">
                 <i className="fas fa-arrow-right"></i>
               </div>
-              <div className="left-container off left1">
-                <p>About Alya</p>
+              <div className="left-container left1">
+                <p>Alya Rusyda Maharistya</p>
                 <div className="icons">
                   <div className="slider1">
                     <div className="slides">
@@ -215,9 +207,6 @@ const Index = () => {
                     referrerpolicy="no-referrer-when-downgrade"
                   ></iframe>
                 </div>
-                <div className="cancle center cancle1">
-                  <i className="fas fa-times"></i>
-                </div>
               </div>
             </div>
           </div>
@@ -228,14 +217,11 @@ const Index = () => {
             data-aos-duration="1000"
           >
             <div className="box center">
-              <div>
-                <p className="prod">Celline Regia Yasshinta</p>
-              </div>
               <div className="arr-container center arr2">
                 <i className="fas fa-arrow-right"></i>
               </div>
-              <div className="left-container off left2">
-                <p>About Celline</p>
+              <div className="left-container left2">
+                <p>Celline Regia Yasshinta</p>
                 <div className="icons">
                   <div className="slider2">
                     <div className="slides">
@@ -286,9 +272,6 @@ const Index = () => {
                     referrerpolicy="no-referrer-when-downgrade"
                   ></iframe>
                 </div>
-                <div className="cancle center cancle2">
-                  <i className="fas fa-times"></i>
-                </div>
               </div>
             </div>
           </div>
@@ -299,14 +282,11 @@ const Index = () => {
             data-aos-duration="1000"
           >
             <div className="box center">
-              <div>
-                <p className="prod">Gizella Ratu Pramesti</p>
-              </div>
               <div className="arr-container center arr3">
                 <i className="fas fa-arrow-right"></i>
               </div>
-              <div className="left-container off left3">
-                <p>About Gizella</p>
+              <div className="left-container left3">
+                <p>Gizella Ratu Pramesti</p>
                 <div className="icons">
                   <div className="slider3">
                     <div className="slides">
@@ -357,9 +337,6 @@ const Index = () => {
                     loading="lazy"
                     referrerpolicy="no-referrer-when-downgrade"
                   ></iframe>
-                </div>
-                <div className="cancle center cancle3">
-                  <i className="fas fa-times"></i>
                 </div>
               </div>
             </div>
