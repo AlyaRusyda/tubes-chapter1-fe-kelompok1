@@ -2,14 +2,17 @@
 
   <p align="center">
     TEFA SMK Telkom Malang Spesialisasi Frontend Kelompok 1
-    
+    Desember, 2022
+  
    <br> Consists : </br>
 <br>1. Aisya Karenina Ramadhani</br>
 2. Alya Rusyda Maharistya
 <br>3. Celline Regia Yasshinta
 <br>4. Gizella Ratu Pramesti</br>
 
-   <a href="https://github.com/aisyakareninaa/tubes-chapter1-fe-kelompok1"><strong>Explore the docs » </strong></a>
+<div align = "center">
+ <a href="https://github.com/aisyakareninaa/tubes-chapter1-fe-kelompok1"><strong>Explore the docs » </strong></a></div>
+  
 
 
 <!-- TABLE OF CONTENTS -->
@@ -28,7 +31,7 @@
   </li>
       </ul>
     </li>
-    <li><a href="#requirement">Requirement</a></li>
+    <li><a href="#features">Our Features</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
@@ -63,11 +66,11 @@
 # Footer
 ![footer yunoya](https://user-images.githubusercontent.com/100953845/199120903-37bb08e0-5a51-4828-8f38-138226ad17b9.jpeg)
 
-<!-- REQUIREMENT -->
-## Requirement
+<!-- FEATURES -->
+## Features
 
 - [ ] Responsive Website 
-- [ ] Carousel Picture
+- [ ] Carousel Pictures
 - [ ] Multimedia (photos, video, maps)
 - [ ] Dark and Light Mode Simple Calculator
 
@@ -81,7 +84,6 @@ Created by Kelompok 1 TEFA SMK Telkom Malang Frontend Specialization powered by 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [js]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [js-url]: https://nodejs.org/
