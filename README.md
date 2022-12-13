@@ -29,7 +29,6 @@
   <li><a href="#details">Details</a></li>
   <li><a href="#footer">Footer</a></li>
   </li>
-      </ul>
     </li>
     <li><a href="#features">Our Features</a></li>
     <li><a href="#license">License</a></li>
@@ -65,6 +64,10 @@
 
 # Footer
 ![footer yunoya](https://user-images.githubusercontent.com/100953845/199120903-37bb08e0-5a51-4828-8f38-138226ad17b9.jpeg)
+
+## Calculator
+https://user-images.githubusercontent.com/99931057/207391486-4e2d0d2a-c79f-4f33-93bb-7f6240af0852.jpeg
+https://user-images.githubusercontent.com/99931057/207391697-5e6c0b90-a5a0-4157-aa44-de1ce6db0621.jpeg
 
 <!-- FEATURES -->
 ## Features
