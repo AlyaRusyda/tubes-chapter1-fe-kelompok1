@@ -78,7 +78,7 @@
 - [ ] Multimedia (photos, video, maps)
 - [ ] Dark and Light Mode Simple Calculator
 
-Visit (link docker)
+Visit https://tubes-chapter1-fe-kelompok1-e2c2.vercel.app/
 
 
 <!-- LICENSE -->
