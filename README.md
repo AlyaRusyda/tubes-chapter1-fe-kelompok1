@@ -1,14 +1,7 @@
-# TEFA_TASK1_K1_FE
-KELOMPOK 1 PROJECT 1 TEFA KELAS SPESIALISASI FRONTEND
-
-<div align="center">
-  <a href="https://github.com/aisyakareninaa/tubes-chapter1-fe-kelompok1"></a>
-
 <h1 align="center">TUGAS BESAR FRONTEND</h1>
 
   <p align="center">
     TEFA SMK Telkom Malang Spesialisasi Frontend Kelompok 1
-    
     
    <br align="left"> Consists : </br>
 <br>1. Aisya Karenina Ramadhani</br>
