@@ -1,6 +1,6 @@
 import React, { useRef, useEffect, useState } from "react";
 import { btns, BTN_ACTIONS } from "./ButtonConfig";
-import Navbar from "./navbar";
+import { Link } from "react-router-dom";
 import Footer from "./footer";
 import Sun from "../icons/Sun";
 import Moon from "../icons/Moon";
@@ -138,7 +138,19 @@ function Calculator() {
 
   return (
     <>
-    <Navbar />
+    <header>
+        <h3 className="logo">
+          <span>Kelo</span>mpok 1
+        </h3>
+        <input type="checkbox" id="menu-bar" />
+        <label for="menu-bar" className="fas fa-bars"></label>
+        <nav className="navbar">
+          <Link to="/">Home</Link>
+          <Link to="/">About</Link>
+          <Link to="/">Biodata</Link>
+          <Link to="/Calculator">Kalkulator</Link>
+        </nav>
+      </header>
       <div className="all">
         <div className="switch">
             <Sun />
