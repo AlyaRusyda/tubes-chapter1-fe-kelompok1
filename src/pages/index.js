@@ -1,14 +1,25 @@
 import React from "react";
 import "../css/style2.css";
-import Navbar from "./navbar";
+import { Link } from "react-router-dom";
 import Footer from "./footer";
 import Carousel from "react-bootstrap/Carousel";
 
 const Index = () => {
   return (
     <>
-      <Navbar />
-
+     <header>
+        <h3 className="logo">
+          <span>Kelo</span>mpok 1
+        </h3>
+        <input type="checkbox" id="menu-bar" />
+        <label for="menu-bar" className="fas fa-bars"></label>
+        <nav className="navbar">
+          <a href="#home">Home</a>
+          <a href="#about">About Us</a>
+          <a href="#biodata">Biodata</a>
+          <Link to="/Calculator">Kalkulator</Link>
+        </nav>
+      </header>
       <ul className="sidebar" data-aos="fade-right" data-aos-offset="900">
         <li className="side-item">
           <a href="#home" className="side-link">
