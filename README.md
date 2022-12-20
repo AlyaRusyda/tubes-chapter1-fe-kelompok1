@@ -66,8 +66,11 @@
 ![footer yunoya](https://user-images.githubusercontent.com/100953845/199120903-37bb08e0-5a51-4828-8f38-138226ad17b9.jpeg)
 
 ## Calculator
-![kalkulator1](https://user-images.githubusercontent.com/99931057/207392799-933444f2-b450-4ef8-9cf5-4e6e223bfc43.jpeg)
-![kalkulator2](https://user-images.githubusercontent.com/99931057/207392817-4d476956-18b1-4e59-b12a-f6b13790e058.jpeg)
+Light mode.
+![Screenshot (328)](https://user-images.githubusercontent.com/100953845/208721672-9a437946-5a66-40bf-9c7b-a303a809ab7c.png)
+Dark mode.
+![Screenshot (329)](https://user-images.githubusercontent.com/100953845/208721684-e07f8775-f6e8-4392-8812-a1803ac449f0.png)
+
 
 
 <!-- FEATURES -->
