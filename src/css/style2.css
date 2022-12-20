@@ -254,7 +254,7 @@ header label {
   flex: 1 1 240px;
 }
 .about .column .content p {
-  font-size: 2rem;
+  font-size: 14px;
   color: #666;
   padding: 16px 0;
   text-align: justify;
@@ -625,6 +625,10 @@ footer img {
   .slide {
     flex-flow: column-reverse;
   }
+  .about .column {
+    flex-direction: column;
+  }
+
   footer .container {
     flex-direction: column;
     font-size: 10px;
