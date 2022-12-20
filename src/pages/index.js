@@ -20,26 +20,6 @@ const Index = () => {
           <Link to="/Calculator">Kalkulator</Link>
         </nav>
       </header>
-      <ul className="sidebar" data-aos="fade-right" data-aos-offset="900">
-        <li className="side-item">
-          <a href="#home" className="side-link">
-            <i className="fas fa-home"></i>
-            <span className="text-side">Home</span>
-          </a>
-        </li>
-        <li className="side-item">
-          <a href="#about" className="side-link">
-            <i className="fas fa-user-secret"></i>
-            <span className="text-side">About Us</span>
-          </a>
-        </li>
-        <li className="side-item">
-          <a href="#biodata" className="side-link">
-            <i className="fas fa-address-card"></i>
-            <span className="text-side">Biodata</span>
-          </a>
-        </li>
-      </ul>
 
       <section className="home" id="home">
         <div className="content">
